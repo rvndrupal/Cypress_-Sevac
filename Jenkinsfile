@@ -48,6 +48,33 @@ pipeline {
                     }
                 }
 
+
+                stage('Slave 4') {
+                    agent {
+                        label "Agent1_4"
+                    }
+                    steps {
+                        git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
+                        bat 'npm install'
+                        bat 'npm update'  
+                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
+                                              
+                    }
+                }
+
+                 stage('Slave 5') {
+                    agent {
+                        label "Agent1_5"
+                    }
+                    steps {
+                        git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
+                        bat 'npm install'
+                        bat 'npm update'  
+                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
+                                              
+                    }
+                }
+
                 /*
                 
             
