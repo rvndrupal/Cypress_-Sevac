@@ -11,7 +11,7 @@ import 'cypress-file-upload'
 describe('SEVAC', () =>{ 
 
     const master= new test_PO()
-    let numero_pruebas=3
+    let numero_pruebas=1
     let tiempo_general=50
     
 
