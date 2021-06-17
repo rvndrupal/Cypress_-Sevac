@@ -12,10 +12,10 @@ pipeline {
                         label "Agent1_1"
                     }
                     steps {
-                        git url: 'https://github.com/rvndrupal/Sipvi_cypress_ok.git'
+                        git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 556e334e-5963-4522-9a24-843123893567  --parallel'
+                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
                     
                     }
                 }
@@ -25,10 +25,10 @@ pipeline {
                         label "Agent1_2"
                     }
                     steps {
-                        git url: 'https://github.com/rvndrupal/Sipvi_cypress_ok.git'
+                        git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'  
-                        bat 'npx cypress run cypress run --record --key 556e334e-5963-4522-9a24-843123893567  --parallel'
+                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
                                               
                     }
                 }
@@ -40,10 +40,10 @@ pipeline {
                         label "Agent1_3"
                     }
                     steps {
-                        git url: 'https://github.com/rvndrupal/Sipvi_cypress_ok.git'
+                        git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'  
-                        bat 'npx cypress run cypress run --record --key 556e334e-5963-4522-9a24-843123893567  --parallel'
+                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
                                               
                     }
                 }
