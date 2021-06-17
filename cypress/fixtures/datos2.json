@@ -1,0 +1,90 @@
+[
+    {
+        "nombre":"rodrigo",
+        "apellido":"Villanueva",
+        "email": "rodrigo@gmail.com",
+        "tel":"5540783288",
+        "dir1":"Dirección rodrigo",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78778",
+        "web":"rodrigo.com.mx",
+        "proyecto":"Proyecto demo de rodrigo"
+        
+    },
+
+    {
+        "nombre":"Erika",
+        "apellido":"Paz",
+        "email": "Erika@gmail.com",
+        "tel":"5540783234",
+        "dir1":"Dirección Erika",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78768",
+        "web":"Erika.com.mx",
+        "proyecto":"Proyecto demo de Erika"
+        
+    },
+
+    {
+        "nombre":"Jessica",
+        "apellido":"Perez",
+        "email": "Jessica@gmail.com",
+        "tel":"5540783245",
+        "dir1":"Dirección Jessica",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78778",
+        "web":"Jessica.com.mx",
+        "proyecto":"Proyecto demo de Jessica"
+        
+    },
+
+    {
+        "nombre":"Carlos",
+        "apellido":"Olmos",
+        "email": "Carlos@gmail.com",
+        "tel":"5540783223",
+        "dir1":"Dirección Carlos",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78767",
+        "web":"Carlos.com.mx",
+        "proyecto":"Proyecto demo de Carlos"
+        
+    },
+
+    {
+        "nombre":"Pedro",
+        "apellido":"Perez",
+        "email": "Pedro@gmail.com",
+        "tel":"5540783223",
+        "dir1":"Dirección Pedro",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78767",
+        "web":"Pedro.com.mx",
+        "proyecto":"Proyecto demo de Pedro"
+        
+    },
+
+    {
+        "nombre":"Alberto",
+        "apellido":"Perez",
+        "email": "Alberto@gmail.com",
+        "tel":"5540783223",
+        "dir1":"Dirección Alberto",
+        "ciudad":"México",
+        "estado":"Texas",
+        "cp":"78767",
+        "web":"Alberto.com.mx",
+        "proyecto":"Proyecto demo de Alberto"
+        
+    }
+
+
+   
+
+    
+]

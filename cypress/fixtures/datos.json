@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":"rodrigo",
+        "email": "rodrigo@gmail.com",
+        "dir1":"Dirección uno",
+        "dir2":"Dirección dos"
+    },
+
+    {
+        "nombre":"Juan",
+        "email": "juan@gmail.com",
+        "dir1":"Dirección uno juan",
+        "dir2":"Dirección dos juan"
+    },
+
+    {
+        "nombre":"Pedro",
+        "email": "Pedro@gmail.com",
+        "dir1":"Dirección uno Pedro",
+        "dir2":"Dirección dos Pedro"
+    },
+
+    {
+        "nombre":"Erika",
+        "email": "Erika@gmail.com",
+        "dir1":"Dirección uno Erika",
+        "dir2":"Dirección dos Erika"
+    },
+
+    {
+        "nombre":"Jessica",
+        "email": "Jessica@gmail.com",
+        "dir1":"Dirección uno Jessica",
+        "dir2":"Dirección dos Jessica"
+    }
+
+    
+]
