@@ -85,7 +85,7 @@ class test_PO{
                 cy.xpath("//button[contains(.,'Borrar archivo')]").should('exist').then(()=>{
                     cy.xpath("//button[contains(.,'Borrar archivo')]").click({force: true})
                 
-                    let img_Arr = ["Libro_01.pdf","Libro_02.pdf","Libro_03.pdf"];            
+                    let img_Arr = ["Libro_01.pdf","Libro_02.pdf","Libro_03.pdf","Excel_1.xlsx","Excel_2.xlsx","Excel_3.xlsx","CP.xls"];                       
                     let Random_img = img_Arr[Math.floor(Math.random()*img_Arr.length)]; 
                 
                     cy.get('[type="file"]').attachFile(Random_img)

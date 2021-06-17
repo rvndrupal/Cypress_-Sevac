@@ -15,7 +15,7 @@ pipeline {
                         git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'                       
-                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
+                        bat 'npx cypress run cypress run --record --key ae537680-c0a7-4f29-9c91-f59ccb0060bc  --parallel'
                     
                     }
                 }
@@ -28,7 +28,7 @@ pipeline {
                         git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'  
-                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
+                        bat 'npx cypress run cypress run --record --key ae537680-c0a7-4f29-9c91-f59ccb0060bc  --parallel'
                                               
                     }
                 }
@@ -43,7 +43,7 @@ pipeline {
                         git url: 'https://github.com/rvndrupal/Cypress_-Sevac.git'
                         bat 'npm install'
                         bat 'npm update'  
-                        bat 'npx cypress run cypress run --record --key 789fd0a5-c357-47cd-9b8f-762241902622  --parallel'
+                        bat 'npx cypress run cypress run --record --key ae537680-c0a7-4f29-9c91-f59ccb0060bc  --parallel'
                                               
                     }
                 }
