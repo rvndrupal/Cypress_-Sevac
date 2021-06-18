@@ -102,7 +102,7 @@ class test_PO{
                     cy.xpath("//button[contains(.,'Guardar')]").click({force: true})
                     cy.wait(tiempo)
                 })
-                cy.wait(tiempo)
+                
             }
 
                
